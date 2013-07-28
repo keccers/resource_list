@@ -1,12 +1,6 @@
 HTML & CSS Resources
 ====================
 
-Fonts
----------------------
-+ [Font Squirrel](http://www.fontsquirrel.com/)
-+ [The League of Moveable Type](http://www.theleagueofmoveabletype.com/)
-+ [Google Web Fonts](http://www.google.com/fonts/)
-
 CSS Frameworks & Tools
 ---------------------
 + [Twitter Bootstrap](http://twitter.github.io/bootstrap/)
