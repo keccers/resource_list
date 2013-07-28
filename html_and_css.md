@@ -9,6 +9,7 @@ CSS Frameworks & Tools
   + [Bourbon--mixins for use with SASS](http://bourbon.io/)
   + [Compass--mixins for use with SASS](http://compass-style.org)
 + [LESS](http://lesscss.org/)
++ [CSS3 Generator](http://css3generator.com/)
 
 HTML Frameworks & Tools
 ---------------------
@@ -24,4 +25,5 @@ Lorem Ipsum
 Cheat Sheets & Helpers
 ---------------------
 + [50 Web Development & Design Cheat Sheets](http://stylishwebdesigner.com/50-web-design-and-development-cheat-sheets-you-must-have/)
++ [CSS Tricks](http://css-tricks.com/)
 
