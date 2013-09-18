@@ -11,6 +11,7 @@ Pull requests will be accepted with regard to content quality.
 
 ### Jump To
 + [Fonts](https://github.com/keccers/design_resources/blob/master/design.md#fonts)
++ [Symbols](https://github.com/keccers/design_resources/blob/master/design.md#symbols)
 + [Colors](https://github.com/keccers/design_resources/blob/master/design.md#colors)
 + [Images](https://github.com/keccers/design_resources/blob/master/design.md#images)
 + [CSS Preprocessors](https://github.com/keccers/resource_list/blob/master/html_and_css.md#css-preprocessors)
