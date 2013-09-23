@@ -1,23 +1,13 @@
-Welcome
+A resource guide
 ================
-An ever-evolving list of helpful resources for web development. 
-Maintained and moderated by [@mbacksmeier](http://www.github.com/mbacksmeier) & [@keccers](http://github.com/keccers)
-
+An ever-evolving list of helpful resources for web development.
+Maintained by [@mbacksmeier](http://www.github.com/mbacksmeier) & [@keccers](http://github.com/keccers)
 
 ### Contributions
-Send us a pull request to contribute your suggestions to the list. 
-Pull requests will be accepted with regard to content quality. 
-
+If you have a great resource, be sure to send a pull request our way.
 
 ### Jump To
-+ [Fonts](https://github.com/keccers/design_resources/blob/master/design.md#fonts)
-+ [Symbols](https://github.com/keccers/design_resources/blob/master/design.md#symbols)
-+ [Colors](https://github.com/keccers/design_resources/blob/master/design.md#colors)
-+ [Images](https://github.com/keccers/design_resources/blob/master/design.md#images)
-+ [CSS Preprocessors](https://github.com/keccers/resource_list/blob/master/html_and_css.md#css-preprocessors)
-+ [CSS Frameworks](https://github.com/keccers/resource_list/blob/master/html_and_css.md#css-frameworks)
-+ [Grid Frameworks](https://github.com/keccers/resource_list/blob/master/html_and_css.md#grid-frameworks)
-+ [CSS Tools](https://github.com/keccers/resource_list/blob/master/html_and_css.md#css-tools)
-+ [Lorem Ipsum](https://github.com/keccers/design_resources/blob/master/html_and_css.md#lorem-ipsum)
-+ [Cheat Sheets & Helpers](https://github.com/keccers/design_resources/blob/master/html_and_css.md#cheat-sheets--helpers)
-
++ [Font and Typography](/design/font_and_typography.md)
++ [Colors and Images](/design/colors_and_images.md)
++ [CSS](/design/css.md)
++ [Sass and LESS](/design/sass_and_less.md)
