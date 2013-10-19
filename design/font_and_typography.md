@@ -46,4 +46,8 @@ Fonts and Typography
 
     The Typetester is an online application for comparison of the fonts for the screen. Its primary role is to make web designer’s life easier. As the new fonts are bundled into operating systems, the list of the common fonts will be updated.
 
++ [Vertical Rhythm](http://drewish.com/tools/vertical-rhythm/)
+
+    Allows to calculate vertical rhythm using CSS. 
+
 
