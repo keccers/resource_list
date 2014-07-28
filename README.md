@@ -1,7 +1,7 @@
 A resource guide
 ================
 An ever-evolving list of helpful resources for web development.
-Maintained by [@mbacksmeier](http://www.github.com/mbacksmeier) & [@keccers](http://github.com/keccers)
+Maintained by [@marksb](http://www.github.com/marksb) & [@keccers](http://github.com/keccers)
 
 ### Contributions
 If you have a great resource, be sure to send a pull request our way.
